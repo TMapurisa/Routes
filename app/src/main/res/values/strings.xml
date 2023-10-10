@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Routes</string>
+    <string name="title_activity_routes_maps">RoutesMaps</string>
+    <string name="apiKey">"AIzaSyAjCZ3-1lFhc87diARhwsoG4Fu4Y5VvXG8"</string>
+</resources>
